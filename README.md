@@ -1,8 +1,8 @@
 ## Boa Vindas Ao Meu Perfil 👋👨‍🎓
 
 Meu nome é Lucas Moura
-- Estou estudanda na [Alura](https://www.alura.com.br) e na [Udemy](https://www.udemy.com.br)
-- Estou me desnvolvendo na linguagem JavaScript
+- Estudanda na [Alura](https://www.alura.com.br) e na [Udemy](https://www.udemy.com.br)
+- Me desnvolvendo na linguagem JavaScript
 - Utilizo esse espaço para compartilhar os meus projetos
 
   ## Você pode entrar em contato comígo 📧
