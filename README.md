@@ -7,3 +7,5 @@ Meu nome é Lucas Moura
   ## Você pode entrar em contato comígo 📧
 
   Lukinhas.cod.123@gamil.com
+
+  ![](https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif)
